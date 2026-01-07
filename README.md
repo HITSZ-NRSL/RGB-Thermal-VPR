@@ -32,5 +32,15 @@ python3 eval.py --resume /path/to/checkpoint --save_dir /path/to/save/directory 
 * `img_time`: choose from {daytime, nighttime, allday}
 
 # Video
-
 [![](https://img.youtube.com/vi/DdcS2P67XFQ/hqdefault.jpg)](https://youtu.be/DdcS2P67XFQ)
+
+# Citation
+If you find this project useful in your research, please consider citing:
+@inproceedings{ye2025rgb,
+  title={RGB-Thermal Visual Place Recognition via Vision Foundation Model},
+  author={Ye, Minghao and Liu, Xiao and Wang, Yu and Liu, Lu and Chen, Haoyao},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  pages={4954--4960},
+  year={2025},
+  organization={IEEE}
+}
