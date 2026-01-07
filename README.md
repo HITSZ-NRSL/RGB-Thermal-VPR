@@ -36,6 +36,7 @@ python3 eval.py --resume /path/to/checkpoint --save_dir /path/to/save/directory 
 
 # Citation
 If you find this project useful in your research, please consider citing:
+```bibtex
 @inproceedings{ye2025rgb,
   title={RGB-Thermal Visual Place Recognition via Vision Foundation Model},
   author={Ye, Minghao and Liu, Xiao and Wang, Yu and Liu, Lu and Chen, Haoyao},
@@ -44,3 +45,4 @@ If you find this project useful in your research, please consider citing:
   year={2025},
   organization={IEEE}
 }
+```
